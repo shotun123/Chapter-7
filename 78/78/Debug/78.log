@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\wesle\OneDrive\C223\78\78\Source.c(18,16): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+C:\Users\wesle\OneDrive\C223\78\78\Source.c(13,1): warning C4090: 'initializing': different 'const' qualifiers
+  78.vcxproj -> C:\Users\wesle\OneDrive\C223\78\Debug\78.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\wesle\OneDrive\C223\76\76\Source.c(16,46): warning C4013: 'exit' undefined; assuming extern returning int
+  76.vcxproj -> C:\Users\wesle\OneDrive\C223\76\Debug\76.exe
